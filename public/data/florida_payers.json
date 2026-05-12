@@ -1,0 +1,29 @@
+[
+  {"name": "Florida Medicaid (Fee-For-Service)",                "type": "Medicaid",   "edi_payer_id": "FLMCD",  "phone": "1-877-254-1055"},
+  {"name": "Sunshine Health (Florida Medicaid MMA)",            "type": "Medicaid",   "edi_payer_id": "68069",  "phone": "1-866-796-0530"},
+  {"name": "Simply Healthcare (Florida Medicaid)",              "type": "Medicaid",   "edi_payer_id": "SMPLY",  "phone": "1-844-405-4296"},
+  {"name": "Humana Medical Plan of Florida",                    "type": "Medicaid",   "edi_payer_id": "61101",  "phone": "1-800-477-6931"},
+  {"name": "Aetna Better Health of Florida",                    "type": "Medicaid",   "edi_payer_id": "128FL",  "phone": "1-800-441-5501"},
+  {"name": "Molina Healthcare of Florida",                      "type": "Medicaid",   "edi_payer_id": "51062",  "phone": "1-866-472-4585"},
+  {"name": "United Healthcare Community Plan of Florida",       "type": "Medicaid",   "edi_payer_id": "87726",  "phone": "1-888-716-8787"},
+  {"name": "Community Care Plan (FL Medicaid)",                 "type": "Medicaid",   "edi_payer_id": "CCPFL",  "phone": "1-866-899-4828"},
+  {"name": "Children's Medical Services Health Plan",           "type": "Medicaid",   "edi_payer_id": "CMSFL",  "phone": "1-866-799-5321"},
+
+  {"name": "Medicare Part B (Florida — First Coast)",           "type": "Medicare",   "edi_payer_id": "09102",  "phone": "1-866-454-9007"},
+  {"name": "Humana Medicare Advantage (Florida)",               "type": "Medicare",   "edi_payer_id": "61101",  "phone": "1-800-457-4708"},
+  {"name": "Aetna Medicare (Florida)",                          "type": "Medicare",   "edi_payer_id": "60054",  "phone": "1-800-624-0756"},
+  {"name": "United Healthcare Medicare (Florida)",              "type": "Medicare",   "edi_payer_id": "87726",  "phone": "1-800-457-8506"},
+
+  {"name": "Aetna Commercial",                                  "type": "Commercial", "edi_payer_id": "60054",  "phone": "1-800-872-3862"},
+  {"name": "Blue Cross Blue Shield of Florida (Florida Blue)",  "type": "Commercial", "edi_payer_id": "00590",  "phone": "1-800-352-2583"},
+  {"name": "Cigna Healthcare",                                  "type": "Commercial", "edi_payer_id": "62308",  "phone": "1-800-244-6224"},
+  {"name": "United Healthcare Commercial",                      "type": "Commercial", "edi_payer_id": "87726",  "phone": "1-866-633-2446"},
+  {"name": "Humana Commercial",                                 "type": "Commercial", "edi_payer_id": "61101",  "phone": "1-800-457-4708"},
+  {"name": "AvMed Health Plans",                                "type": "Commercial", "edi_payer_id": "59274",  "phone": "1-800-477-8768"},
+  {"name": "Capital Health Plan (Florida)",                     "type": "Commercial", "edi_payer_id": "95112",  "phone": "1-850-383-3311"},
+  {"name": "Vivida Health (Florida Commercial)",                "type": "Commercial", "edi_payer_id": "VIVDA",  "phone": "1-844-243-5181"},
+
+  {"name": "TRICARE East",                                      "type": "Tricare",    "edi_payer_id": "TREST",  "phone": "1-800-444-5445"},
+  {"name": "Workers' Compensation (Florida)",                   "type": "WorkComp",   "edi_payer_id": "WCFL",   "phone": "1-800-342-1741"},
+  {"name": "Self-Pay",                                          "type": "Self-Pay",   "edi_payer_id": null,     "phone": null}
+]
